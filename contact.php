@@ -455,7 +455,7 @@ $(document).ready(function(){
 </script>
 <div class="wp-baidumap_content" style="width: 980px; height: 226px; border-color: transparent; border-width: 0px;">
 <div class="lockmove" style="width: 980px; height: 226px; position: absolute;"></div>
-<iframe width="900" height="325" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://j.map.baidu.com/VWO9H"></iframe>
+<iframe width="900" height="325" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://j.map.baidu.com/nFx2H"></iframe>
 </div></div><script>		         $('#layer5C0CC760C22C86C236F0C7D11540FF21').triggerHandler('layer_ready');</script><div id='layer47140CC79F1F83D41BD254175446C760' type='title'  class='cstlayer' style='left: 0px; top: 1038px; position: absolute; z-index: 104; width: 706px; height: 193px;'  mid=""   deg='0'>
 <div class="wp-title_content" style="word-wrap: break-word; padding: 0px; border-color: transparent; border-width: 0px; height: 193px; width: 706px; display: block;"><div>
 <span style="font-size: 16px;">地址：<?php echo $config['address'];?></span></div><div><br></div><div>

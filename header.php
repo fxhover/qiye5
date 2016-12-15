@@ -13,7 +13,7 @@
 	$GLOBALS['config'] = array(
 		'name' => '北京艺美和电子科技有限公司',
 		'company' => '北京艺美和电子科技有限公司',
-		'address' => '北京市平谷区黄松峪东街402号',
+		'address' => '北京市平谷区黄松峪东街1号',
 		'tel' => '010-50942015',
 		'domain' => 'http://www.zhuang360.com.cn',
 		'email' => 'postmaster@zhuang360.com.cn',
