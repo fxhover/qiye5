@@ -342,7 +342,7 @@ create_pc_media_set_pic('layer24411D93121CC90B4604A46B687D6969',false);
 <div class="img_over"  style='overflow: hidden; border-color: transparent; border-width: 0px; width: 229px; height: 56px;'>
 
 <div class="imgloading" style="z-index:100;"> </div>
-<img  id="wp-media-image_layer24411D93121CC90B4604A46B687D6969" class="img_lazy_load paragraph_image"  data-original="http://tpl-cac847b.pic-tpl.websiteonline.cn/upload/1_0zao.png" type="zoom" src="http://static.websiteonline.cn/website/template/default/images/blank.gif" style="width: 229px; height: 56px;;" />
+<img  id="wp-media-image_layer24411D93121CC90B4604A46B687D6969" class="img_lazy_load paragraph_image"  data-original="/images/logo.jpg" type="zoom" src="http://static.websiteonline.cn/website/template/default/images/blank.gif" style="width: 229px; height: 56px;;" />
 </div>
 
 </div>
@@ -428,7 +428,7 @@ $('#layerDFE601D0BC127A088025DC889B6C690E .full_width').css({left:0-$('#canvas')
 
 
 <div id="layer18E8B43CC4D092A82087965AE9286C68" class="full_column"   style="width:980px;position:absolute;top:101px;height:519px;z-index:101;">	
-		<div class="full_width" style="position:absolute;height:519px;background-image:url('http://tpl-cac847b.pic-tpl.websiteonline.cn/upload/1_hrd3.jpg');background-position:center top;background-repeat:no-repeat;">	</div>
+		<div class="full_width" style="position:absolute;height:519px;background-size:100%;background-image:url('/images/banner.jpg');background-position:center top;background-repeat:no-repeat;">	</div>
 		<div class="full_content" style="width:980px; position:absolute;left:0;top:0;margin-left: 0px;;height:519px;">
 					</div>
 </div>

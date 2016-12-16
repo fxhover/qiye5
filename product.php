@@ -344,7 +344,7 @@ create_pc_media_set_pic('layer24411D93121CC90B4604A46B687D6969',false);
 <div class="img_over"  style='overflow: hidden; border-color: transparent; border-width: 0px; width: 229px; height: 56px;'>
 
 <div class="imgloading" style="z-index:100;"> </div>
-<img  id="wp-media-image_layer24411D93121CC90B4604A46B687D6969" class="img_lazy_load paragraph_image"  data-original="http://tpl-cac847b.pic-tpl.websiteonline.cn/upload/1_0zao.png" type="zoom" src="http://static.websiteonline.cn/website/template/default/images/blank.gif" style="width: 229px; height: 56px;;" />
+<img  id="wp-media-image_layer24411D93121CC90B4604A46B687D6969" class="img_lazy_load paragraph_image"  data-original="/images/logo.jpg" type="zoom" src="http://static.websiteonline.cn/website/template/default/images/blank.gif" style="width: 229px; height: 56px;;" />
 </div>
 
 </div>
